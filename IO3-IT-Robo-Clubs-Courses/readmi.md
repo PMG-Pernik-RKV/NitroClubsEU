@@ -1,3 +1,4 @@
-https://sites.google.com/pmg-pernik.com/nitroclub
+Сайт на проекта: https://nitroclubs.eu/
+Сайт на клуба по роботика: https://sites.google.com/pmg-pernik.com/nitroclub
 
-https://213.191.208.76/io3-it-robo-clubs-courses/
+В тази папка ще бъдат публикувани теоретични материали и упражнения (лекции, презентации и др.), които ще използваме за обучение. Някой материали ще бъдят дадени с линкове, които са насочени към самите документи.
