@@ -1,3 +1,4 @@
-https://sites.google.com/pmg-pernik.com/nitroclub
+Сайт на проекта: https://nitroclubs.eu/
+Сайт на клуба по роботика: https://sites.google.com/pmg-pernik.com/nitroclub
 
-https://nitroclubs.eu/
+В тази папка ще бъдат публикувани материали, информация и линкове свързани със симулации на роботи.
