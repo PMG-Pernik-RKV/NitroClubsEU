@@ -1,7 +1,7 @@
 # NitroClubsEU
-Arduino based educational mobile robot source code.
+Arduino based educational mobile robot - source code, links and materials.
 
-This is our repository!
+This is repository of PMG-Pernik!
 
 The official site of nitroclubs project is here: https://nitroclubs.eu/
 
